@@ -1,0 +1,12 @@
+{
+  "trial_id": "DEMO-ONLY",
+  "registry_url": "https://clinicaltrials.gov/",
+  "registry_snapshot_date": "2026-10-17",
+  "outcome": "Illustrative event",
+  "contrast": "Treatment A vs B",
+  "timepoint": "12 months",
+  "registration_date": "2022-06-15",
+  "first_enrollment_date": "2022-04-01",
+  "allocation": "Randomized",
+  "masking": "Open label"
+}
